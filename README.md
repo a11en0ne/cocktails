@@ -1,4 +1,7 @@
-## API Src ##
+## Cocktails DB
+visit final version: https://cocktails-database.netlify.app/
+
+## API Src
 
 url:https://www.thecocktaildb.com/
 
